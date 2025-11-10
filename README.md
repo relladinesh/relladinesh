@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>👋 Hi, I'm <span style="color:#0e75b6;"><strong>Neekunj Chaturvedi</strong></span></h1>
+<h1>👋 Hi, I'm <span style="color:#0e75b6;"><strong>Rella Dinesh</strong></span></h1>
 
 <!-- Glitch/ASCII/Code headline style -->
 <h3>
