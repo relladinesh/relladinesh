@@ -47,14 +47,7 @@
 
 ## 🚩 About Me
 
-- 🛠️ Currently building <b>SpectraQ</b>
-- 🌱 Learning: <b>Expo</b>, <b>Cloud Native</b>, <b>Design Systems</b> and <b>Web3</b>
-- 🤝 Open to collaborating on ambitious products & OSS
-- 💬 Ask me about <b>MERN, Modern UI, Blockchain, Cloud , System Design and StartUps</b>
-- 📬 Email: <a href="mailto:neekunjchaturvedi3@gmail.com">neekunjchaturvedi3@gmail.com</a>
-- 🧠 Always Building side projects, code, design, and community
-
-
+- 🛠️ 
 
 
 ## 🛠️ Tech Stack
@@ -63,7 +56,6 @@
 
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java" /><br>
-
 
 
 
@@ -111,21 +103,3 @@
 
 </div>
 
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:neekunjchaturvedi3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/neekunj-chaturvedi-293223257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
- 
-  <a href="https://kaggle.com/neekunjchaturvedi" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://leetcode.com/neekunjchaturvedi3" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
