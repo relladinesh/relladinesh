@@ -78,7 +78,7 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white">
 
 
@@ -95,11 +95,4 @@
 🧑‍💻 Sharpening my DSA and solving problems on Leetcode
 ```
 
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=neekunjchaturvedi&show_icons=true&theme=dark&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=neekunjchaturvedi&theme=dark&hide_border=true" height="165" />
-
-</div>
 
