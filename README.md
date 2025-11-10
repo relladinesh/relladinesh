@@ -36,9 +36,9 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java" /><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,figma" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrapfigma" /><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,mysql,postman" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman" /><br>
 
 <img src="https://skillicons.dev/icons?i=vite,npm,git,github,githubactions" /><br>
 
